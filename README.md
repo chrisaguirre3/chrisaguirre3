@@ -6,7 +6,7 @@
 <table>
   <tr>
     <td>
-      <img src="tm_cm_gb_profile.png" alt="Hobbies Treemap and Confusion Matrix" width="685" height="241" style="width:3500px;"/>
+      <img src="tm_cm_gb_profile.png" alt="Hobbies Treemap and Confusion Matrix" width="685" height="241" style="width:3700px;"/>
     </td>
     <td style="vertical-align: top;">
       Welcome! I predicted you'd be visiting today.<br><br>
