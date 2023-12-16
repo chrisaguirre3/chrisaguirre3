@@ -9,7 +9,7 @@
       <img src="https://github.com/chrisaguirre3/chrisaguirre3/blob/main/tm_cm_gb_profile.png" alt="Hobbies Treemap and Confusion Matrix" width="685" height="241" style="width:4000px;margin: 0; padding: 0; display: block;"/>
     </td>
     <td style="vertical-align: top; margin: 0; padding: 0;">
-      Welcome!<br> I predicted you'd be visiting today.<br><br>
+      Welcome!<br><br> I predicted you'd be visiting today.<br><br>
       Looks like my Accuracy, Recall, Precision, and F1 scores are all at <strong>100%!</strong>
     </td>
   </tr>
