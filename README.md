@@ -5,7 +5,7 @@
 
 <table>
   <tr>
-    <td>
+    <td align="left">
       <img src="tm_cm_gb_profile.png" alt="Hobbies Treemap and Confusion Matrix" width="685" height="241" style="width:4000px;"/>
     </td>
     <td style="vertical-align: top;">
