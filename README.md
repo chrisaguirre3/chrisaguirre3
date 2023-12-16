@@ -1,10 +1,10 @@
 ### Mission-driven to maximize decision intelligence by applying data science tools and techniques.
 
-### Army Career &#10230;&#10230;&#10230;&#10230;&#10230;&#10230;&#10230;&#10230; More Recently
+### Army Career &#10230;&#10230;&#10230;&#10230;&#10230;&#10230;&#10230; More Recently
 <img src="Wordclouds_Combined.png" alt="Work Experience Wordclouds" width="685" height="241" style="vertical-align: middle;"/>
 
 
-![Hobbies Treemap and Confusion Matrix](tm_cm_gb_profile.png) 
+<img src="tm_cm_gb_profile.png" alt="Hobbies Treemap and Confusion Matrix" width="783" height="304" style="vertical-align: middle;"/>
 
 Open to collaboration on data science / data analysis projects.
 - 📫 Contact: <a href="mailto:christophermiguelaguirre@gmail.com">
