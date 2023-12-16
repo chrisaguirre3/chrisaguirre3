@@ -2,23 +2,9 @@
 
 #### Army Career &#10230;&#10230;&#10230;&#10230;&#10230;&#10230;&#10230;&#10230;&#10230;&#10230;&#10230;&#10230; More Recently
 
-<div style="display: flex; align-items: start; gap: 20px;">
-
-  <!-- Image Container -->
-  <div>
+<div>
     <img src="Wordclouds_Combined.png" alt="Work Experience Wordclouds" width="685" height="241" style="vertical-align: middle;"/>
-  </div>
-
-  <!-- Scrollable Code Container -->
-  <div style="overflow: auto; max-width: 200px; max-height: 241px; border: 1px solid #ccc; padding: 10px;">
-    <pre style="white-space: pre-wrap; margin: 0;">
-# Import necessary libraries/modules      
-import textract
-from nltk.corpus import stopwords
-from nltk.tokenize import word_tokenize, sent_tokenize
-import re
-from wordcloud import WordCloud
-      
+  <pre>
 # Extract text from the document
 text = textract.process('/Users/chris/Desktop/Army.docx')
 
@@ -42,9 +28,7 @@ plt.axis('off')
 plt.show()
 for i in range(10):
     print(i)
-    </pre>
-  </div>
-
+  </pre>
 </div>
 
 <table style="border-collapse: collapse; border-spacing: 0; margin: 0; padding: 0;">
