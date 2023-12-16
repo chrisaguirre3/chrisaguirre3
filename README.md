@@ -1,6 +1,6 @@
 ### Mission-driven to maximize decision intelligence by applying data science tools and techniques.
 
-<img src="Wordclouds_Combined.png" alt="Work Experience Wordclouds" width="978" height="344" style="vertical-align: middle;"/>
+<img src="Wordclouds_Combined.png" alt="Work Experience Wordclouds" width="782" height="275" style="vertical-align: middle;"/>
 ###    Army Career &#10230;&#10230;&#10230;&#10230;&#10230;&#10230;&#10230;&#10230;&#10230;&#10230;&#10230;&#10230;&#10230; Recently
 
 ![Hobbies Treemap and Confusion Matrix](tm_cm_gb_profile.png) 
