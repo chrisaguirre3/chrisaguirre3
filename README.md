@@ -6,7 +6,7 @@
 <table>
   <tr>
     <td>
-      <img src="tm_cm_gb_profile.png" alt="Hobbies Treemap and Confusion Matrix" width="685" height="241" style="float: left; margin-right:         10px;"/>
+      <img src="tm_cm_gb_profile.png" alt="Hobbies Treemap and Confusion Matrix" width="685" height="241" style="width:200px;"/>
     </td>
     <td style="vertical-align: top;">
       I predicted that you'd visit this page. Looks like my Accuracy, Recall, Precision, and F1 scores are all at 100%!
