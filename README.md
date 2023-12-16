@@ -1,7 +1,7 @@
 ### Mission-driven to maximize decision intelligence by applying data science tools and techniques.
 
 ![Army Wordcloud](Wordclouds_Combined.png) 
-##    Army Career ---------------------------------> Recent Years
+##    Army Career &#10230; Recent Years
 
 Open to collaboration on data science / data analysis projects.
 - 📫 Contact: <a href="mailto:christophermiguelaguirre@gmail.com">
