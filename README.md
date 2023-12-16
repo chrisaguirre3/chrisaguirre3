@@ -3,9 +3,10 @@
 #### Army Career &#10230;&#10230;&#10230;&#10230;&#10230;&#10230;&#10230;&#10230;&#10230;&#10230;&#10230;&#10230; More Recently
 <img src="Wordclouds_Combined.png" alt="Work Experience Wordclouds" width="685" height="241" style="vertical-align: middle;"/>
 
-
-<img src="tm_cm_gb_profile.png" alt="Hobbies Treemap and Confusion Matrix" width="685" height="241" style="vertical-align: middle;"/>
+<p align="left">
+    <img src="tm_cm_gb_profile.png" alt="Hobbies Treemap and Confusion Matrix" width="685" height="241" style="float: left; margin-right:         10px;"/>
 I predicted that you'd visit this page. Looks like my Accuracy, Recall, Precision, and F1 scores are all at 100%!
+</p>
 
 Open to collaboration on data science / data analysis projects.
 <a href="mailto:christophermiguelaguirre@gmail.com">
