@@ -4,7 +4,7 @@
 ##    Army Career ---------------------------------> Recent Years
 
 Open to collaboration on data science / data analysis projects.
-- 📫 Contact: christophermiguelaguirre@gmail.com | [![LinkedIn](linkedin_logo.jpg)]((https://www.linkedin.com/in/christopher-aguirre7/)
+- 📫 Contact: christophermiguelaguirre@gmail.com | [![LinkedIn](linkedin_logo.jpg)](https://www.linkedin.com/in/christopher-aguirre7/)
 
 
 <!---
