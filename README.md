@@ -11,7 +11,7 @@
 
   <!-- Scrollable Code Container -->
   <div style="overflow-y: auto; max-width: 200px; max-height: 241px; border: 1px solid #ccc; padding: 10px;">
-    <pre><code>```python
+    ```python
 # Import necessary libraries/modules      
 import textract
 from nltk.corpus import stopwords
