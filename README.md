@@ -5,6 +5,7 @@
 
 
 <img src="tm_cm_gb_profile.png" alt="Hobbies Treemap and Confusion Matrix" width="685" height="241" style="vertical-align: middle;"/>
+I predicted that you'd visit this page. Looks like my Accuracy, Recall, Precision, and F1 scores are all at 100%!
 
 Open to collaboration on data science / data analysis projects.
 <a href="mailto:christophermiguelaguirre@gmail.com">
