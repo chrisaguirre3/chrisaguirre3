@@ -1,7 +1,51 @@
 ### Mission-driven to maximize decision intelligence.
 
 #### Army Career &#10230;&#10230;&#10230;&#10230;&#10230;&#10230;&#10230;&#10230;&#10230;&#10230;&#10230;&#10230; More Recently
-<img src="Wordclouds_Combined.png" alt="Work Experience Wordclouds" width="685" height="241" style="vertical-align: middle;"/>
+
+<div style="display: flex; align-items: start; gap: 20px;">
+
+  <!-- Image Container -->
+  <div>
+    <img src="Wordclouds_Combined.png" alt="Work Experience Wordclouds" width="685" height="241" style="vertical-align: middle;"/>
+  </div>
+
+  <!-- Scrollable Code Container -->
+  <div style="overflow-y: auto; max-width: 200px; max-height: 241px; border: 1px solid #ccc; padding: 10px;">
+    <pre><code>
+# Import necessary libraries/modules      
+import textract
+from nltk.corpus import stopwords
+from nltk.tokenize import word_tokenize, sent_tokenize
+import re
+from wordcloud import WordCloud
+      
+# Extract text from the document
+text = textract.process('/Users/chris/Desktop/Army.docx')
+
+# Filter out character codewords
+cleaned_text = re.sub(r'\\(n|xe2|x80|x99)', '', str(text))
+
+# Tokenize the words in the text
+tokens = word_tokenize(cleaned_text)
+
+# Tokenizing the sentences in the text
+sentences = sent_tokenize(cleaned_text)
+
+# Remove stopwords and create 'filtered_tokens' variable
+stop_words = set(stopwords.words('english'))
+filtered_tokens = [word for word in tokens if word not in stop_words]
+
+# Create wordcloud with filtered tokens
+wordcloud = WordCloud(width=1400, height=1000).generate(' '.join(filtered_tokens))
+plt.imshow(wordcloud, interpolation='bilinear')
+plt.axis('off')
+plt.show()
+for i in range(10):
+    print(i)
+    </code></pre>
+  </div>
+
+</div>
 
 <table style="border-collapse: collapse; border-spacing: 0; margin: 0; padding: 0;">
   <tr style="margin: 0; padding: 0;">
