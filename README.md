@@ -4,7 +4,7 @@
 <img src="Wordclouds_Combined.png" alt="Work Experience Wordclouds" width="685" height="241" style="vertical-align: middle;"/>
 
 
-<img src="tm_cm_gb_profile.png" alt="Hobbies Treemap and Confusion Matrix" width="783" height="304" style="vertical-align: middle;"/>
+<img src="tm_cm_gb_profile.png" alt="Hobbies Treemap and Confusion Matrix" width="685" height="241" style="vertical-align: middle;"/>
 
 Open to collaboration on data science / data analysis projects.
 - 📫 Contact: <a href="mailto:christophermiguelaguirre@gmail.com">
