@@ -5,7 +5,7 @@
 
 Open to collaboration on data science / data analysis projects.
 - 📫 Contact: christophermiguelaguirre@gmail.com | <a href="https://www.linkedin.com/in/christopher-aguirre7/">
-    <img src="linkedin_logo2.jpg" alt="LinkedIn" width="30" height="30"/>
+    <img src="linkedin_logo2.jpg" alt="LinkedIn" width="30" height="30" style="vertical-align: middle;"/>
 </a>
 
 
