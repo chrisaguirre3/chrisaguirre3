@@ -9,7 +9,8 @@
       <img src="tm_cm_gb_profile.png" alt="Hobbies Treemap and Confusion Matrix" width="685" height="241" style="width:3500px;"/>
     </td>
     <td style="vertical-align: top;">
-      I predicted that you'd visit this page. Looks like my Accuracy, Recall, Precision, and F1 scores are all at 100%!
+      I predicted that you'd visit this page. 
+      <p align="left">Looks like my Accuracy, Recall, Precision, and F1 scores are all at 100%!</p>
     </td>
   </tr>
 </table>
