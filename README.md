@@ -3,9 +3,9 @@
 #### Army Career &#10230;&#10230;&#10230;&#10230;&#10230;&#10230;&#10230;&#10230;&#10230;&#10230;&#10230;&#10230; More Recently
 <img src="Wordclouds_Combined.png" alt="Work Experience Wordclouds" width="685" height="241" style="vertical-align: middle;"/>
 
-<table>
-  <tr>
-    <td align="left">
+<table style="border-collapse: collapse; border-spacing: 0; margin: 0; padding: 0;">
+  <tr style="margin: 0; padding: 0;">
+    <td style="margin: 0; padding: 0; border: none; align: left;">
       <img src="tm_cm_gb_profile.png" alt="Hobbies Treemap and Confusion Matrix" width="685" height="241" style="width:4000px;"/>
     </td>
     <td style="vertical-align: top;">
