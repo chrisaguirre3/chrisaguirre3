@@ -8,7 +8,7 @@
     <td style="margin: 0; padding: 0; border: none; align: left;">
       <img src="tm_cm_gb_profile.png" alt="Hobbies Treemap and Confusion Matrix" width="685" height="241" style="width:4000px;"/>
     </td>
-    <td style="vertical-align: top;">
+    <td style="vertical-align: top; margin: 0; padding: 0;">
       Welcome! I predicted you'd be visiting today.<br><br>
       Looks like my Accuracy, Recall, Precision, and F1 scores are all at <strong>100%!</strong>
     </td>
