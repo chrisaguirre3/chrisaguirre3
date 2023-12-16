@@ -15,12 +15,21 @@
   </tr>
 </table>
 
-Open to collaboration on data science / data analysis projects.
-<a href="mailto:christophermiguelaguirre@gmail.com">
+<table>
+  <tr>
+    <td style="padding-right: 20px;"> <!-- Add padding to create space -->
+      Open to collaboration on data science / data analysis projects.
+    </td>
+    <td>
+      <a href="mailto:christophermiguelaguirre@gmail.com">
     <img src="gmail_hero.jpg" alt="Gmail" width="30" height="30" style="vertical-align: bottom; margin: 20px;"/>
  </a><a href="https://www.linkedin.com/in/christopher-aguirre7/">
     <img src="linkedin_logo2.jpg" alt="LinkedIn" width="30" height="30" style="vertical-align: bottom;"/>
 </a>
+    </td>
+  </tr>
+</table>
+
 
 <!---
 chrisaguirre3/chrisaguirre3 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
