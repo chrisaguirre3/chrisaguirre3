@@ -3,7 +3,7 @@
 ![Work Experience Wordclouds](Wordclouds_Combined.png) 
 ###    Army Career &#10230;&#10230;&#10230;&#10230;&#10230;&#10230;&#10230;&#10230;&#10230;&#10230;&#10230;&#10230;&#10230; Recently
 
-![Hobbies Treemap and Confusion Matrix](tm_cm_gb profile.png) 
+![Hobbies Treemap and Confusion Matrix](tm_cm_gb_profile.png) 
 
 Open to collaboration on data science / data analysis projects.
 - 📫 Contact: <a href="mailto:christophermiguelaguirre@gmail.com">
