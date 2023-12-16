@@ -10,7 +10,7 @@
     </td>
     <td style="vertical-align: top;">
       Welcome! I predicted you'd be visiting today.  
-      align="left">Looks like my Accuracy, Recall, Precision, and F1 scores are all at 100%!
+      Looks like my Accuracy, Recall, Precision, and F1 scores are all at 100%!
     </td>
   </tr>
 </table>
