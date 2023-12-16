@@ -1,4 +1,4 @@
-## Mission-driven to maximize decision intelligence by applying data science tools and techniques.
+### Mission-driven to maximize decision intelligence by applying data science tools and techniques.
 
 ![Army Wordcloud](Wordclouds_Combined.png) 
 ###    Army Career &#10230;&#10230;&#10230;&#10230;&#10230;&#10230;&#10230;&#10230;&#10230;&#10230; Recent Years
