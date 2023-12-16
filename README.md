@@ -7,7 +7,7 @@
 <img src="tm_cm_gb_profile.png" alt="Hobbies Treemap and Confusion Matrix" width="685" height="241" style="vertical-align: middle;"/>
 
 Open to collaboration on data science / data analysis projects.
-- 📫 Contact: <a href="mailto:christophermiguelaguirre@gmail.com">
+<a href="mailto:christophermiguelaguirre@gmail.com">
     <img src="gmail_hero.jpg" alt="Gmail" width="30" height="30" style="vertical-align: bottom;"/>
  </a><a href="https://www.linkedin.com/in/christopher-aguirre7/">
     <img src="linkedin_logo2.jpg" alt="LinkedIn" width="30" height="30" style="vertical-align: bottom;"/>
