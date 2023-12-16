@@ -1,7 +1,9 @@
 ### Mission-driven to maximize decision intelligence by applying data science tools and techniques.
 
-![Army Wordcloud](Wordclouds_Combined.png) 
+![Work Experience Wordclouds](Wordclouds_Combined.png) 
 ###    Army Career &#10230;&#10230;&#10230;&#10230;&#10230;&#10230;&#10230;&#10230;&#10230;&#10230;&#10230;&#10230;&#10230; Recently
+
+![Hobbies Treemap and Confusion Matrix](tm_cm_gb profile.png) 
 
 Open to collaboration on data science / data analysis projects.
 - 📫 Contact: <a href="mailto:christophermiguelaguirre@gmail.com">
@@ -9,7 +11,6 @@ Open to collaboration on data science / data analysis projects.
  </a><a href="https://www.linkedin.com/in/christopher-aguirre7/">
     <img src="linkedin_logo2.jpg" alt="LinkedIn" width="30" height="30" style="vertical-align: bottom;"/>
 </a>
-
 
 <!---
 chrisaguirre3/chrisaguirre3 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
