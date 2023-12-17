@@ -3,7 +3,7 @@
 #### Army Career &#10230;&#10230;&#10230;&#10230;&#10230;&#10230;&#10230;&#10230;&#10230;&#10230;&#10230;&#10230; More Recently
 
 <details>
-  <summary>Click to view the code</summary>  
+  <summary>Wordcloud code</summary>  
   <pre style="white-space: pre-wrap;"><code>
 &#35; Import necessary libraries/modules      
 import textract
@@ -38,36 +38,6 @@ for i in range(10):
   </code></pre>
 </details>
 
-
-
-<div>
-    <img src="Wordclouds_Combined.png" alt="Work Experience Wordclouds" width="685" height="241" style="vertical-align: middle;"/>
-  <pre>
-# Extract text from the document
-text = textract.process('/Users/chris/Desktop/Army.docx')
-
-# Filter out character codewords
-cleaned_text = re.sub(r'\\(n|xe2|x80|x99)', '', str(text))
-
-# Tokenize the words in the text
-tokens = word_tokenize(cleaned_text)
-
-# Tokenizing the sentences in the text
-sentences = sent_tokenize(cleaned_text)
-
-# Remove stopwords and create 'filtered_tokens' variable
-stop_words = set(stopwords.words('english'))
-filtered_tokens = [word for word in tokens if word not in stop_words]
-
-# Create wordcloud with filtered tokens
-wordcloud = WordCloud(width=1400, height=1000).generate(' '.join(filtered_tokens))
-plt.imshow(wordcloud, interpolation='bilinear')
-plt.axis('off')
-plt.show()
-for i in range(10):
-    print(i)
-  </pre>
-</div>
 
 <table style="border-collapse: collapse; border-spacing: 0; margin: 0; padding: 0;">
   <tr style="margin: 0; padding: 0;">
