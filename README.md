@@ -17,7 +17,8 @@ from nltk.corpus import stopwords
 from nltk.tokenize import word_tokenize, sent_tokenize
 import re
 from wordcloud import WordCloud
-          
+
+
 &#35; Extract text from the document
 text = textract.process('/Users/chris/Desktop/Army.docx')
 
