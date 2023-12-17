@@ -5,8 +5,8 @@
 <details>
   <summary>Click to view the code</summary>
   <pre><code>
-```# Extract text from the document
-text = textract.process('/Users/chris/Desktop/Army.docx')
+```# Extract text from the document```
+```text = textract.process('/Users/chris/Desktop/Army.docx')```
 
 # Filter out character codewords
 cleaned_text = re.sub(r'\\(n|xe2|x80|x99)', '', str(text))
