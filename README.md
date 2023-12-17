@@ -50,7 +50,7 @@ for i in range(10):
   <td>
       <details>
         <summary>Tree Map/Confusion Matrix code</summary>
-        <pre><code>
+        <pre style="white-space: pre-wrap;"><code>
 &#35; Import necessary libraries/modules 
 import numpy as np
 import pandas as pd
