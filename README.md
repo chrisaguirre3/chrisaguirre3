@@ -10,7 +10,7 @@
     <td>
       <details>
         <summary>Wordcloud code</summary>
-        <pre style="white-space: pre-wrap;"><code>
+        <pre><code>
 &#35; Import necessary libraries/modules      
 import textract
 from nltk.corpus import stopwords
@@ -58,6 +58,7 @@ import matplotlib.pyplot as plt
 import seaborn as sns
 import squarify
 
+# Add a blank line for spacing
 &#35; Plot hobbies treemap
 categories = ['Piano', 'Hiking in the Mountains', 'Snowboarding', 'Tennis','CrossFit',
               'AI Generated Art','Learning New Skills','Going on Adventures!']
