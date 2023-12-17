@@ -47,7 +47,7 @@ for i in range(10):
     </td>
     
     <!-- Second Code Dropdown -->
-    <td>
+  <td>
       <details>
         <summary>Tree Map/Confusion Matrix code</summary>
         <pre><code>
