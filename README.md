@@ -40,14 +40,10 @@ wordcloud = WordCloud(width=1400, height=1000).generate(' '.join(filtered_tokens
 plt.imshow(wordcloud, interpolation='bilinear')
 plt.axis('off')
 plt.show()
-
-for i in range(10):
-    print(i)
         </code></pre>
       </details>
     </td>
     
-    <!-- Second Code Dropdown -->
   <td>
       <details>
         <summary>Tree Map/Confusion Matrix code</summary>
@@ -92,8 +88,6 @@ plt.xlabel('Predicted Label')
 plt.ylabel('True Label')
     
 plt.show()
-for i in range(10):
-    print(i)
         </code></pre>
       </details>
     </td>
