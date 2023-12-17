@@ -4,7 +4,6 @@
 
 <details>
   <summary>Click to view the code</summary>  
-  <pre><code>
 ```python
 # Import necessary libraries/modules      
 import textract
@@ -36,7 +35,6 @@ plt.axis('off')
 plt.show()
 for i in range(10):
     print(i)
-  </code></pre>
 </details>
 ```
 
