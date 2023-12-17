@@ -5,7 +5,7 @@
 <details>
   <summary>Click to view the code</summary>
   <pre><code>
-# Extract text from the document
+```# Extract text from the document
 text = textract.process('/Users/chris/Desktop/Army.docx')
 
 # Filter out character codewords
@@ -25,7 +25,7 @@ filtered_tokens = [word for word in tokens if word not in stop_words]
 wordcloud = WordCloud(width=1400, height=1000).generate(' '.join(filtered_tokens))
 plt.imshow(wordcloud, interpolation='bilinear')
 plt.axis('off')
-plt.show()
+plt.show()```
 for i in range(10):
     print(i)
   </code></pre>
