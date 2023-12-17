@@ -4,7 +4,14 @@
 
 <details>
   <summary>Click to view the code</summary>  
-```# Extract text from the document
+```# Import necessary libraries/modules      
+import textract
+from nltk.corpus import stopwords
+from nltk.tokenize import word_tokenize, sent_tokenize
+import re
+from wordcloud import WordCloud
+
+# Extract text from the document
 text = textract.process('/Users/chris/Desktop/Army.docx')
 
 # Filter out character codewords
@@ -27,7 +34,6 @@ plt.axis('off')
 plt.show()```
 for i in range(10):
     print(i)
-  </code></pre>
 </details>
 
 
