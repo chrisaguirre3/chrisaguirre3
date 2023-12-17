@@ -4,7 +4,7 @@
 
 <details>
   <summary>Click to view the code</summary>  
-```python
+  <pre style="white-space: pre-wrap;"><code>
 # Import necessary libraries/modules      
 import textract
 from nltk.corpus import stopwords
@@ -35,8 +35,8 @@ plt.axis('off')
 plt.show()
 for i in range(10):
     print(i)
+  </code></pre>
 </details>
-```
 
 
 
