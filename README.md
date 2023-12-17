@@ -4,7 +4,8 @@
 
 <details>
   <summary>Click to view the code</summary>  
-```# Import necessary libraries/modules      
+  <pre><code>
+# Import necessary libraries/modules      
 import textract
 from nltk.corpus import stopwords
 from nltk.tokenize import word_tokenize, sent_tokenize
@@ -31,9 +32,10 @@ filtered_tokens = [word for word in tokens if word not in stop_words]
 wordcloud = WordCloud(width=1400, height=1000).generate(' '.join(filtered_tokens))
 plt.imshow(wordcloud, interpolation='bilinear')
 plt.axis('off')
-plt.show()```
+plt.show()
 for i in range(10):
     print(i)
+  </code></pre>
 </details>
 
 
