@@ -58,8 +58,7 @@ import matplotlib.pyplot as plt
 import seaborn as sns
 import squarify
 
-&#35; Plot treemap to show proportions of the book's categories/themes
-
+&#35; Plot hobbies treemap
 categories = ['Piano', 'Hiking in the Mountains', 'Snowboarding', 'Tennis','CrossFit',
               'AI Generated Art','Learning New Skills','Going on Adventures!']
 sizes = [20, 20, 10, 10, 20, 5, 15, 15] 
