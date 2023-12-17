@@ -58,7 +58,6 @@ import matplotlib.pyplot as plt
 import seaborn as sns
 import squarify
 
-# Add a blank line for spacing
 &#35; Plot hobbies treemap
 categories = ['Piano', 'Hiking in the Mountains', 'Snowboarding', 'Tennis','CrossFit',
               'AI Generated Art','Learning New Skills','Going on Adventures!']
