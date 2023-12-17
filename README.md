@@ -2,7 +2,7 @@
 
 #### Army Career &#10230;&#10230;&#10230;&#10230;&#10230;&#10230;&#10230;&#10230;&#10230;&#10230;&#10230;&#10230; More Recently
 
-<img src="Wordclouds_Combined.png" alt="Work Experience Wordclouds" width="685" height="241" style="vertical-align: middle;"/>
+<img src="wordclouds_gh_prof.png" alt="Work Experience Wordclouds" width="685" height="241" style="vertical-align: middle;"/>
 
 <table>
   <tr>
