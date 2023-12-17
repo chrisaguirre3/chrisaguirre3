@@ -56,7 +56,7 @@ import numpy as np
 import pandas as pd
 import matplotlib.pyplot as plt
 import seaborn as sns
-import squarify<br>
+import squarify<br><br>
 
 &#35; Plot hobbies treemap
 categories = ['Piano', 'Hiking in the Mountains', 'Snowboarding', 'Tennis','CrossFit',
