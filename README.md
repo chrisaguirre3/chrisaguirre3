@@ -5,30 +5,30 @@
 <details>
   <summary>Click to view the code</summary>  
   <pre style="white-space: pre-wrap;"><code>
-# Import necessary libraries/modules      
+&#35; Import necessary libraries/modules      
 import textract
 from nltk.corpus import stopwords
 from nltk.tokenize import word_tokenize, sent_tokenize
 import re
 from wordcloud import WordCloud
 
-# Extract text from the document
+&#35; Extract text from the document
 text = textract.process('/Users/chris/Desktop/Army.docx')
 
-# Filter out character codewords
+&#35; Filter out character codewords
 cleaned_text = re.sub(r'\\(n|xe2|x80|x99)', '', str(text))
 
-# Tokenize the words in the text
+&#35; Tokenize the words in the text
 tokens = word_tokenize(cleaned_text)
 
-# Tokenizing the sentences in the text
+&#35; Tokenizing the sentences in the text
 sentences = sent_tokenize(cleaned_text)
 
-# Remove stopwords and create 'filtered_tokens' variable
+&#35; Remove stopwords and create 'filtered_tokens' variable
 stop_words = set(stopwords.words('english'))
 filtered_tokens = [word for word in tokens if word not in stop_words]
 
-# Create wordcloud with filtered tokens
+&#35; Create wordcloud with filtered tokens
 wordcloud = WordCloud(width=1400, height=1000).generate(' '.join(filtered_tokens))
 plt.imshow(wordcloud, interpolation='bilinear')
 plt.axis('off')
