@@ -1,4 +1,4 @@
-### Mission-driven to maximize decision intelligence.
+## Mission-driven to maximize decision intelligence.
 
 #### <span style="color: #F0EAD6;">Army Career &#10230;&#10230;&#10230;&#10230;&#10230;&#10230;&#10230;&#10230;&#10230;&#10230;&#10230;&#10230; More Recently</span>
 
