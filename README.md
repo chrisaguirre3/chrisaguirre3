@@ -23,7 +23,7 @@ from wordcloud import WordCloud
 text = textract.process('/Users/chris/Desktop/Army.docx')
 
 &#35; Filter out character codewords
-cleaned_text = re.sub(r'\\(n|xe2|x80|x99)', '', str(text))
+cleaned_text = re.sub(r'\\(n|xe2|x80|x99|t|xc2)', '', str(text))
 
 &#35; Tokenize the words in the text
 tokens = word_tokenize(cleaned_text)
@@ -36,6 +36,9 @@ stop_words = set(stopwords.words('english'))
 filtered_tokens = [word for word in tokens if word not in stop_words]
 
 &#35; Create wordcloud with filtered tokens
+fig, ax = plt.subplots()
+fig.patch.set_facecolor('black')
+
 wordcloud = WordCloud(width=1400, height=1000).generate(' '.join(filtered_tokens))
 plt.imshow(wordcloud, interpolation='bilinear')
 plt.axis('off')
@@ -60,32 +63,56 @@ import squarify
 categories = ['Piano', 'Hiking in the Mountains', 'Snowboarding', 'Tennis','CrossFit',
               'AI Generated Art','Learning New Skills','Going on Adventures!']
 sizes = [20, 20, 10, 10, 20, 5, 15, 15] 
-colors = ['red', 'green', 'blue', 'grey']
+colors = ['#dfe318', '#2db27d', '#38598c', '#0b101b']
 
-plt.figure(figsize=(12, 8))
-squarify.plot(sizes=sizes, label=categories, color=colors, alpha=0.7, pad=0.01)
+&#35; Create a figure and a set of subplots
+fig, ax = plt.subplots(figsize=(12, 8))
 
-plt.title('Some of my Hobbies',fontweight='bold',fontsize=20)
+&#35; Set the background color of the axes and the figure
+ax.set_facecolor('#1e2327')  # for the axes
+fig.patch.set_facecolor('#1e2327')  # for the figure background
+
+squarify.plot(sizes=sizes, label=categories, color=colors, alpha=0.7, pad=0.01, ax=ax)
+
+plt.title('Some of my Hobbies',fontweight='bold',fontsize=20, color='#F0EAD6')
 plt.axis('off')  # Disable the axis
 
 &#35; Adjust label formatting
 for i, label in enumerate(plt.gca().texts):
     label.set_fontsize(13.5)  
     label.set_weight('bold')
+    if categories[i] == 'Going on Adventures!':  
+        label.set_rotation(90)
+        label.set_color('#2db27d')
+    if categories[i] == 'Tennis': 
+        label.set_color('#2db27d') 
 
 plt.show()
 
 &#35; Create list of predictions and transform into 2x2 numpy array
 predictions_list = [0,0,0,1]
 predictions_matrix = np.array(predictions_list).reshape(2,2)
+
+&#35; Change background color
+fig, ax = plt.subplots(figsize=(5,4))
+fig.patch.set_facecolor('#1e2327')
+ax.set_facecolor('#1e2327')
     
 &#35; Plot confusion matrix using seaborn heatmap
 plt.figure(figsize=(5,4))
 ax = sns.heatmap(predictions_matrix, vmin=0, vmax=1, annot=True, 
                     cmap = sns.color_palette("mako", as_cmap=True), fmt='g')
-plt.title('Confusion Matrix', fontsize=16, fontweight='bold')
-plt.xlabel('Predicted Label')
-plt.ylabel('True Label')
+plt.title('Confusion Matrix', fontsize=16, fontweight='bold', color='#F0EAD6')
+plt.xlabel('Predicted Label', color='#F0EAD6')
+plt.ylabel('True Label', color='#F0EAD6')
+ax.tick_params(axis='both', colors='#F0EAD6')
+
+&#35; Access the color bar
+cbar = ax.collections[0].colorbar
+
+&#35; Change the color of the color bar's tick labels
+cbar.ax.yaxis.set_tick_params(color='#F0EAD6')  # Change tick label colors
+plt.setp(plt.getp(cbar.ax.axes, 'yticklabels'), color='#F0EAD6') # Change tick text colors
     
 plt.show()
         </code></pre>
