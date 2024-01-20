@@ -2,7 +2,7 @@
 
 #### <span style="color: #F0EAD6;">&nbsp;&nbsp; Army Career &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; More Recently</span>
 
-<img src="wordclouds_v2.png" alt="Work Experience Wordclouds" width="685" height="350" style="vertical-align: middle;"/>
+<img src="wordclouds_v2.png" alt="Work Experience Wordclouds" width="685" height="340" style="vertical-align: middle;"/>
 
 <table>
   <tr>
