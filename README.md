@@ -1,5 +1,20 @@
 # Mission-driven to maximize decision intelligence.
 
+<table>
+  <tr>
+    <td style="padding-right: 20px;"> <!-- Add padding to create space -->
+      Open to collaboration on data science / data analysis projects.
+    </td>
+    <td>
+      <a href="mailto:christophermiguelaguirre@gmail.com">
+    <img src="gmail_hero.jpg" alt="Gmail" width="30" height="30" style="vertical-align: bottom; margin: 20px;"/>
+ </a><a href="https://www.linkedin.com/in/christopher-aguirre7/">
+    <img src="linkedin_logo2.jpg" alt="LinkedIn" width="30" height="30" style="vertical-align: bottom;"/>
+</a>
+    </td>
+  </tr>
+</table>
+
 #### <span style="color: #F0EAD6;">&nbsp;&nbsp; Army Career &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; More Recently</span>
 
 <img src="wordclouds_v2.png" alt="Work Experience Wordclouds" width="685" height="330" style="vertical-align: middle;"/>
@@ -129,21 +144,6 @@ plt.show()
     <td style="vertical-align: top; margin: 0; padding: 0;">
       Welcome!<br><br> I predicted you'd be visiting today.<br><br>
       Looks like my Accuracy, Recall, Precision, and F1 scores are all at <strong>100%!</strong>
-    </td>
-  </tr>
-</table>
-
-<table>
-  <tr>
-    <td style="padding-right: 20px;"> <!-- Add padding to create space -->
-      Open to collaboration on data science / data analysis projects.
-    </td>
-    <td>
-      <a href="mailto:christophermiguelaguirre@gmail.com">
-    <img src="gmail_hero.jpg" alt="Gmail" width="30" height="30" style="vertical-align: bottom; margin: 20px;"/>
- </a><a href="https://www.linkedin.com/in/christopher-aguirre7/">
-    <img src="linkedin_logo2.jpg" alt="LinkedIn" width="30" height="30" style="vertical-align: bottom;"/>
-</a>
     </td>
   </tr>
 </table>
